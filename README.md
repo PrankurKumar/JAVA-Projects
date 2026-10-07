@@ -1,2 +1,2 @@
-# JAVA-Projects
+# Development Projects
 This repository shows the java projects.
